@@ -25,4 +25,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 
-Your app is ready to be deployed on GIthub Pages, Netlify etc.
+Your app is ready to be deployed on Github Pages, Netlify etc.
+
+## Test Data
+
+User data is stored in `src/services/api.js`. It is an array of JS Object. You can replace it with your custom data but it should contain the same attributes.
