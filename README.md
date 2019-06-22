@@ -10,6 +10,10 @@ Make sure you have Node.js and npm on your machine.
 
 In the project directory, you can run:
 
+### `npm install`
+
+It will install all the required dependencies. You need to run this only for the first time after downloading the code.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
